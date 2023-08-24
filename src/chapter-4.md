@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Customer Experience with AI
-================================================
 
 Artificial intelligence (AI) can be a powerful tool for enhancing customer experience, allowing businesses to create personalized interactions and targeted messaging that resonate with customers. In this chapter, we'll explore how businesses can leverage AI to enhance customer experience.
 

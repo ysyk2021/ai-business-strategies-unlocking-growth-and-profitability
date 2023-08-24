@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Considerations for AI-Enabled Business Strategies
-==============================================================================
 
 As businesses increasingly incorporate artificial intelligence (AI) into their strategies, it is important to consider the ethical and legal implications of these technologies. In this chapter, we'll explore the importance of ethical and legal guidelines for AI-enabled business strategies.
 

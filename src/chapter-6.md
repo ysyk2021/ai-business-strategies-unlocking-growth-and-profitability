@@ -1,5 +1,3 @@
-Chapter 6: Managing Risks and Compliance with AI
-================================================
 
 Artificial intelligence (AI) can be a powerful tool for managing risks and ensuring compliance within businesses. In this chapter, we'll explore how businesses can leverage AI to manage risks and ensure compliance.
 

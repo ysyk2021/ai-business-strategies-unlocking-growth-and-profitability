@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-========================================================================================================================
 
 As businesses increasingly incorporate artificial intelligence (AI) into their operations, it's important to consider the ethical and legal considerations involved. AI technologies have the potential to impact society in numerous ways, and it's crucial that businesses prioritize addressing risks and ensuring compliance to avoid negative consequences. In this chapter, we'll explore how to mitigate risks and ensure compliance when implementing AI-enabled business strategies.
 

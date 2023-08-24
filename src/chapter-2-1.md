@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-=================================================================================================================
 
 As businesses increasingly adopt artificial intelligence (AI) technologies, it is important to understand the tools and technologies available for implementing AI-driven business strategies. In this chapter, we'll explore the different types of AI tools and technologies that businesses can use to drive growth and profitability.
 

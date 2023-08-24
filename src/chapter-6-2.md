@@ -1,5 +1,3 @@
-AI-Driven Compliance Monitoring and Reporting
-===============================================================================================
 
 As businesses increasingly adopt artificial intelligence (AI) technologies to drive growth and profitability, managing risks and compliance has become more complex. In this chapter, we'll explore how AI can be used to manage risks and ensure compliance with regulations and best practices.
 
